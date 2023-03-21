@@ -25,14 +25,14 @@ btn1.addEventListener('click', () => meal.showInfo())
 btn2.addEventListener('click', () => meal2.showInfo())
 btn3.addEventListener('click', () => meal3.showInfo())
 
-qpejqpefpq/a//
-///asdasasf
-//wetkueqf
-//afas
 
-///asfsa ///afagv
-
-//jhsuwodua 
-//ascascscasc
-//sacascasc/
-///asvasvasv
+/asfasfasf//
+//afsfsf
+//afsfsf
+//afsfsf
+//afsfsf
+//afsfsf
+//afsfsf
+//afsfsf
+//afsfsf
+//afsfsf
